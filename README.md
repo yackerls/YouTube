@@ -10,7 +10,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
 
 2. Proxmox
    1. [Instalación y configuración de Proxmox](./Proxmox/1) / [video](https://youtu.be/M1zETW77Z1w)
-   2. [Actualizar Proxmox](./Proxmox/1) / [video](https://youtu.be/4CbD9xkAABo)
+   2. [Actualizar Proxmox](./Proxmox/2) / [video](https://youtu.be/4CbD9xkAABo)
    3. [Instalación y configuración de Proxmox](./varios/1) / [video](https://youtu.be/M1zETW77Z1w)
   
 2. Varios

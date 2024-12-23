@@ -3,7 +3,6 @@
 
 Comandos utilisados:
 
-
-comandos utilizados
 apt update
+
 apt upgrade
