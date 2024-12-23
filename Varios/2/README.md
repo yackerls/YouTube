@@ -1,6 +1,6 @@
-## Servidor Web gratis en la Nube con AWS y como Publicarlo con dominio propio
+# Servidor Web gratis en la Nube con AWS y como Publicarlo con dominio propio
 
-# En este video veremos como publicar nuestros sitios web, completamente gratis, utilizando AWS, y como publicarlo con nuestros DNS.
+## En este video veremos como publicar nuestros sitios web, completamente gratis, utilizando AWS, y como publicarlo con nuestros DNS.
 
 
 LINK´S DE REFERENCIA:

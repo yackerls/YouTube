@@ -1,4 +1,4 @@
-## Actualizar Proxmox
+# Actualizar Proxmox
 ## En este video veras como se Actualza Proxmox
 
 Comandos utilisados:
