@@ -1,7 +1,7 @@
-## Listado de videos que tienen archivos hasta ahora:
+## Listado de videos que tienen archivos hasta ahora
 ## En este video veras como se instala Proxmox
 
-##link: usados
+link: utilisados
 
 
 ➡️ Descargar ISO Proxmox: https://www.proxmox.com/en/downloads
