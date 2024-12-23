@@ -1,3 +1,9 @@
-## Listado de videos que tienen archivos hasta ahora:
+## Comprar dominio barato y transferirlo a Cloudflare y subir tu pagina web  !!!Gratis!!!
+# En este video veremos como comprar dominios super baratos  y transferirlos  a cloudflare para sacarle el máximo provecho y publicar nuestra pagina web gratis.
 
-Si el nombre del capítulo no tiene link, es porque no necesité postear ningún archivo.
+Link de Referencia:
+
+
+➡️ link de Hostinger: https://www.hostinger.es/
+
+➡️ link de Cloudflare: https://dash.cloudflare.com/

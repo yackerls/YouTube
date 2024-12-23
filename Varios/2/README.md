@@ -2,13 +2,14 @@
 
 # En este video veremos como publicar nuestros sitios web, completamente gratis, utilizando AWS, y como publicarlo con nuestros DNS.
 
-➡️ Descargar Docker Desktop: https://docs.docker.com/desktop/setup/install/windows-install/
-
-➡️ Docker Hub: https://hub.docker.com/
-
 
 LINK´S DE REFERENCIA:
 
+
+
+➡️ Descargar Docker Desktop: https://docs.docker.com/desktop/setup/install/windows-install/
+
+➡️ Docker Hub: https://hub.docker.com/
 
 ➡️ link de AWS: https://aws.amazon.com/es/#
 
@@ -18,6 +19,7 @@ LINK´S DE REFERENCIA:
 
 
 COMADOS UTILIZADOS:
+
 
 
 mover archivos: sudo mv /home/ubuntu/index.html /var/www/html/
