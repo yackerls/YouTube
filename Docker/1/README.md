@@ -24,5 +24,7 @@ docker images
 ### paso 2:
 
 docker tag rancher/busybox:l.31.1 yackerls/buyboxl : 1.0
+
 docker tag busybox yackerls/busboxy1:1.0
+
 docker push yackerls/busboxy1:1.0
