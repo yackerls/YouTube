@@ -4,5 +4,6 @@
 ##link: usados
 
 
-➡️ Descargar ISO Proxmox: https://www.proxmox.com/en/downloads;
-➡️ Web del scripts: https://tteck.github.io/Proxmox;
+➡️ Descargar ISO Proxmox: https://www.proxmox.com/en/downloads
+
+➡️ Web del scripts: https://tteck.github.io/Proxmox
