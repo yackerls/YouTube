@@ -34,7 +34,7 @@ systemctl restart docker.service
 
 con eso ya deveria estar
 
-#### paso 4:
+### paso 4:
 
 verificacion que podamos ingresar a la pagina web, colocando tu direccion de tu portainer
 
