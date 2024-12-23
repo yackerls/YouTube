@@ -1,3 +1,9 @@
-## Listado de videos que tienen archivos hasta ahora:
+## Actualizar Proxmox
+## En este video veras como se Actualza Proxmox
 
-Si el nombre del capítulo no tiene link, es porque no necesité postear ningún archivo.
+Comandos utilisados:
+
+
+comandos utilizados
+apt update
+apt upgrade
