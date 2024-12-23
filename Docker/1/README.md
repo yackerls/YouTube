@@ -1,24 +1,26 @@
-## Subir Imágenes a Docker Hub
+## Servidor Web gratis en la Nube con AWS y como Publicarlo con dominio propio
 
-# En este Video se muestra como descargar Docker Desktop y como se utiliza y como se suben nuestras propias imágenes a Docker Hub
+# En este video veremos como publicar nuestros sitios web, completamente gratis, utilizando AWS, y como publicarlo con nuestros DNS.
 
 ➡️ Descargar Docker Desktop: https://docs.docker.com/desktop/setup/install/windows-install/
 
 ➡️ Docker Hub: https://hub.docker.com/
 
+
+LINK´S DE REFERENCIA:
+
+
+➡️ link de AWS: https://aws.amazon.com/es/#
+
+➡️ link de la demostración: http://pruebayoutube.yackers.site/
+
+➡️ link de software para ssh: https://mobaxterm.mobatek.net/
+
+
 COMADOS UTILIZADOS:
 
 
-paso 1:
+mover archivos: sudo mv /home/ubuntu/index.html /var/www/html/
 
 
-abrir cmd y colocar 
-
-docker images
-
-
-paso 2:
-
-docker tag busybox:latest yackerls/busboxy1:1.0
-
-docker push yackerls/busboxy1:1.0
+editar archivos: sudo nano index.html
