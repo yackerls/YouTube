@@ -3,8 +3,6 @@
 
 
 
-### crear conexion ssh con docker
-
 ###  Link
 
 
