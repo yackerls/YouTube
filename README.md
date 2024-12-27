@@ -7,6 +7,8 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    2. [Como Actualizar PORTAINER Versión 2.21. 5  y Todas las Versiones](./Docker/2) / [video](https://youtu.be/NBjb85MzSv4) 
    3. [Instalar Docker, Docker Compose, Portainer en Proxmox !!!](./Docker/3) / [video](https://youtu.be/3PKc_Lw3hNQ) 
    4. [Administrar mis contenedores desde mi teléfono móvil](/Docker/4) / [video](https://youtu.be/iwCqv91CvDc) 
+   5. [Mide la Velocidad de tu proveedor de Internet y valida que sea la correcta con SpeedTest](/Docker/5) / [video](https://youtu.be/YP1p0XEMDSc) 
+   6. [Base de datos para tus aplicaciones InfluxDB](/Docker/6) / [video](https://youtu.be/oqPmOY3c-Z8) 
 
 2. Proxmox
    1. [Instalación y configuración de Proxmox](./Proxmox/1) / [video](https://youtu.be/M1zETW77Z1w)
