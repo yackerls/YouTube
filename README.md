@@ -9,7 +9,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    4. [Administrar mis contenedores desde mi teléfono móvil](/Docker/4) / [video](https://youtu.be/iwCqv91CvDc) 
    5. [Mide la Velocidad de tu proveedor de Internet y valida que sea la correcta con SpeedTest](/Docker/5) / [video](https://youtu.be/YP1p0XEMDSc) 
    6. [Base de datos para tus aplicaciones InfluxDB](/Docker/6) / [video](https://youtu.be/oqPmOY3c-Z8) 
-   7. [Conéctate a tus Equipos Remotamente, desde cualquier parte del mundo sin programas, con "Guacamole"](/Docker/7) / [video](https://youtu.be/rhBh06mxa28) 
+   7. [Conéctate a tus Equipos Remotamente, desde cualquier parte del mundo, con "Guacamole"](/Docker/7) / [video](https://youtu.be/rhBh06mxa28) 
    8. [Instalar Grafana para Crear Dashboard y Proyectar mis Estadísticas de mis Servidores](/Docker/8) / [video](https://youtu.be/oSPLUzC2PKo) 
    9. [Crea tus propios certificados con Nginx Proxy Manager](/Docker/9) / [video](https://youtu.be/DOCZTTrG63A) 
    
