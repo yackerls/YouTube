@@ -18,22 +18,24 @@ https://github.com/flcontainers/guacamole
 
 ###  comando:
 
-    version: "3"
-    services:
-    guacamole:
-        image: flcontainers/guacamole
-        container_name: guacamole
-        environment:
-        TZ: 'UTC'
-        EXTENSIONS: 'auth-totp,auth-ldap'
-        volumes:
-        - postgres:/config
-        - /etc/localtime:/etc/localtime:ro
-        ports:
-        - 8080:8080
+```yml
+version: "3"
+services:
+  guacamole:
+    image: flcontainers/guacamole
+    container_name: guacamole
+    environment:
+      TZ: 'UTC'
+      EXTENSIONS: 'auth-totp,auth-ldap'
     volumes:
-    postgres:
-        driver: local
+      - postgres:/config
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 8080:8080
+volumes:
+  postgres:
+    driver: local
+```
 
 
 ###  Claves de Acceso:
