@@ -14,9 +14,13 @@ sino funciona insstamos esto
 
     apt install net-tools
 
-vamos a editar el servicop de docker, para ello ingresamos aca y editamos con nano/etc/docker/daemon
+### paso 2 
 
-### paso 2
+vamos a editar el servicop de docker, para ello ingresamos aca y editamos 
+
+    nano /usr/lib/systemd/system/docker.service
+
+### paso 3
 
 luego modificamos esta linea
 nos ubicamos en esta linea:
@@ -27,7 +31,7 @@ y la dejamos de esta forma
 
     ExecStart=/usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock -H=tcp://0.0.0.0:2375
 
-### paso 3
+### paso 4
 
 reiniciamos 2 servicios el primero
 
@@ -37,7 +41,7 @@ reiniciamos 2 servicios el primero
 
 con eso ya deveria estar
 
-### paso 4:
+### paso 5:
 
 verificacion que podamos ingresar a la pagina web, colocando tu direccion de tu portainer
 
